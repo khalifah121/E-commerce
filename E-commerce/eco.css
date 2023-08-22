@@ -1,0 +1,212 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+.six{
+    display: none;
+}
+.yes{
+    width: 25%;
+    background-color: aliceblue;
+    height: 15pc;
+    padding: 30px;
+    margin: 20px 60%;
+    position: absolute;
+}
+p{
+    text-align: center;
+}
+.bod{
+    display: flex;
+}
+.bodi{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.con{
+    margin-left: 5%;
+    font-size: 18px;
+    margin-top: 22px;
+}
+.con1ii{
+    width: 18px;
+    height: 15px;
+}
+.coni{
+    margin-left: 40px;
+    color: rgb(255, 75, 9);
+    text-decoration: none;
+    padding-bottom: 30px;
+}
+.coni:hover{
+    color: rgb(212, 79, 30);
+    border-bottom: 4px red solid; 
+    transition: .2s;
+}
+.con1{
+    margin-left: 20%;
+    margin-top: 15px;
+}
+.con1i{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
+.lii{  
+    padding-top: 30px;
+    width: 88%;
+    margin-top: 1px;
+    display: flex;
+}
+.line{
+    background-color: rgb(72, 72, 72);
+    width: 88%;
+    height: 1px;  
+    margin-top: 30px;  
+}
+.line_cart{
+    background-color: rgb(72, 72, 72);
+    width: 100%;
+    height: 1px;  
+    margin-top: 10px;  
+}
+.alline{
+    margin-left: 20px;
+    width: 5.5%;
+}
+.bod2{
+    margin-top: 5%;
+    margin-left: 10%;
+    display: flex;
+}
+.con2{
+    width: 35%;
+    height: 23pc;
+    border-radius: 40px;
+    box-shadow: 0px 0px 8px rgb(255, 75, 9);
+}
+.con2i{
+    margin-left: 8%;
+}
+.con2ii{
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.spi{
+    color: rgb(255, 75, 9);
+    font-size: 13px;
+}
+.lor{
+    margin-top: 15px;
+    font-size: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.lor1{
+    margin-top: 5px;
+    font-size: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.figo{
+    display: flex; 
+    margin-top: 40px;
+}
+.figo1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(204, 253, 253);
+    padding: 5px;
+    border-radius: 8px;
+}
+.figo2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+    font-size: 11px;
+    padding: 7px;
+    border-radius: 5px;
+    color: rgb(255, 75, 9);
+    background-color: rgb(249, 249, 243);
+}
+.deli{
+    font-size: 13px;
+    margin: 10px;
+    color: rgb(202, 202, 202);
+}
+.cc{
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 15px;
+    background-color: rgb(230, 230, 230);
+    border-radius: 10px;
+    width: 34%;
+    height: 43px;
+}
+.cci{
+    color: rgb(255, 75, 9);
+    margin: 13px;  
+    margin-top: 11px; 
+    margin-right: 5px;
+    border-radius: 2px; 
+    cursor: pointer;  
+    background-color: white;
+    padding: 0px 4px;
+    /* padding-right: 4px;                                                                                                                                                                1v */
+}
+.ccii{
+     margin: 13px;
+     font-size: 15px;
+     margin-left: 10px;
+     padding-left: 10px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.cciii{
+    color: rgb(255, 75, 9);
+    margin: 13px;  
+    margin-top: 11px;    
+    border-radius: 2px; 
+    cursor: pointer;  
+    background-color: white;
+    padding: 0px 2px;
+    /* padding-right: 2px;                                                                                                                                                                1v */
+}
+.cat{
+    background-color: rgb(255, 75, 9);
+    border: none;
+    display: flex;
+    margin-left: 45%;
+    margin-top: -11%;
+    padding: 10px;
+    width: 9pc;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.cati{
+    width: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.catii{
+    color: white;
+
+}
+.allimage{
+    display: flex;
+    margin-top: 2%;
+    margin-left: 8%;
+}
+.all{
+    width: 73px;
+    height: 70px;
+    border-radius: 5px;
+    margin-left: 30px;
+    border: solid 2px rgb(255, 75, 9);  
+}
+.all:hover{
+    transition: 2s;
+    margin-top: 10px;
+    border: solid 2px rgb(255, 75, 9);
+    box-shadow: 0px 0px 10px rgb(255, 75, 9);
+}
